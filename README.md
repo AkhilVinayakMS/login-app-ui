@@ -22,7 +22,7 @@ You will also see any lint errors in the console.
 
 ### I've added validations for all the UI fields (both client side and server side)
 
-![t2]()
+
 ![t2](https://github.com/AkhilVinayakMS/login-app-ui/blob/master/screenshots/login-error.png)
 ![t2](https://github.com/AkhilVinayakMS/login-app-ui/blob/master/screenshots/signup-validation-errors.png)
 ![t2](https://github.com/AkhilVinayakMS/login-app-ui/blob/master/screenshots/signup-error.png)
@@ -31,6 +31,8 @@ You will also see any lint errors in the console.
 ![t2](https://github.com/AkhilVinayakMS/login-app-ui/blob/master/screenshots/my-profile-dashboard.png)
 
 ### All the tokens are being set in the browser
+
+Upon clicking Logout, all tokens will be cleared from browser and 'refreshtoken' will be removed from server side
 ![t2](https://github.com/AkhilVinayakMS/login-app-ui/blob/master/screenshots/accessToken%26%20RefreshToken.png)
 
 ### It is mobile responsive
